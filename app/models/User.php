@@ -26,14 +26,6 @@ class User {
 		$this->email = $meail;
 	}
 
-	public function getName() {
-		return $this->name;
-	}
-
-	public function setName($name) {
-		$this->name = $name;
-	}
-
 	public function getFoto() {
 		return $this->foto;
 	}
