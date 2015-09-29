@@ -1,0 +1,9 @@
+web/css/*
+web/js/*
+web/assets/compiled/*
+web/media/*
+
+vendor/*
+
+composer.phar
+.idea
